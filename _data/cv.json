@@ -1,68 +1,59 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yutao Yang",
+    "email": "19834290275@163.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://yutao-yang.github.io",
+    "summary": "I am a final-year undergraduate student at Shanxi University, majoring in Software Engineering. My research interests lie in Computer Vision, Embodied AI, and World Models. I will be pursuing my Ph.D. at Nankai University & Zhongguancun Academy.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?user=4U-epJUAAAAJ&hl=zh-CN"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Yutao-Yang",
+        "url": "https://github.com/Yutao-Yang"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Nankai University & Zhongguancun Academy",
+      "area": "Ph.D in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Shanxi University",
+      "area": "B.S. in Software Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2021",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Calligraphy",
+      "keywords": ["Shou Jin Ti", "Song Dynasty Style"]
+    }
+  ],
   "references": [],
   "publications": [
     {
