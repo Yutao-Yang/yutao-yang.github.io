@@ -3,4 +3,15 @@
 <!-- Support for MathJax -->
 <script id="MathJax-script" defer src="https://cdn.jsdelivr.net/npm/mathjax@4.0.0/tex-mml-chtml.js"></script>
 
+<script>
+  document.getElementById("site-title-home")?.addEventListener("click", function (event) {
+    const target = new URL(this.href, window.location.href);
+    if (target.origin === window.location.origin && target.pathname === window.location.pathname) {
+      event.preventDefault();
+      window.history.replaceState(null, "", window.location.pathname + window.location.search);
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  });
+</script>
+
 <!-- end custom footer snippets -->
