@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="profile-intro">
+<div id="top" class="profile-intro">
   <p class="eyebrow">DIRECT-ENTRY PH.D. STUDENT · ARTIFICIAL INTELLIGENCE</p>
   <p class="lead">I am a direct-entry Ph.D. student in <strong>Electronic Information</strong>, jointly trained by <strong>Nankai University’s College of Excellent Engineers</strong> and <strong>Beijing Zhongguancun College</strong>. I received my B.Eng. in Software Engineering from Shanxi University in 2026.</p>
   <p>My research aims to build intelligent systems that understand long-form visual dynamics, form predictive models of the world, and translate multimodal perception into structured actions. I am particularly interested in connecting video understanding with embodied agents and reliable, hierarchical decision-making.</p>
