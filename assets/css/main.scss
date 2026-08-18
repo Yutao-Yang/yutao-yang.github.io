@@ -56,6 +56,7 @@ a:hover { color:var(--yy-link-hover); text-decoration-color:var(--yy-link-hover)
 .greedy-nav { background:transparent; }
 .greedy-nav a { color:var(--yy-black); font-weight:600; }
 .greedy-nav .visible-links a::before { background:var(--yy-black); }
+#site-title-home { pointer-events:auto; cursor:pointer; }
 #theme-toggle { display:none; }
 .page__inner-wrap .page__title { display:none; }
 .page__content { font-size:1rem; }
