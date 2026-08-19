@@ -1,0 +1,19 @@
+---
+permalink: /projects/surveillance-anomaly-detection/
+title: "Surveillance Anomaly Detection"
+layout: single
+author_profile: false
+classes: wide
+---
+
+<article class="project-page">
+  <a class="project-back" href="/#projects">← Back to projects</a>
+  <header class="project-hero"><p class="project-kicker">METRIC LEARNING · JUL. 2024 — JUN. 2025</p><h1>Surveillance Anomaly Detection</h1><p class="project-deck">A Siamese-network-based visual similarity framework for distinguishing fine-grained anomalous behavior under difficult surveillance conditions.</p><div class="project-tags"><span>Siamese Network</span><span>Metric Learning</span><span>Video Anomaly</span><span>Computer Vision</span></div><img src="/assets/images/projects/surveillance-anomaly-hero.webp" alt="Conceptual metric-learning pipeline for surveillance anomaly detection"></header>
+  <section class="project-overview"><div><strong>Role</strong><span>Project lead</span></div><div><strong>Institution</strong><span>Shanxi University</span></div><div><strong>Baseline</strong><span>Siamese neural network</span></div><div><strong>Focus</strong><span>Lighting and occlusion robustness</span></div></section>
+  <section class="project-section"><h2>Research question</h2><div class="project-copy"><p>Surveillance anomalies can differ from normal behavior through subtle motion and contextual changes. The project began with a Siamese baseline, which learns a shared representation for paired samples, then explored richer training relationships to improve fine-grained discrimination.</p><p>The project title remains centered on the Siamese architecture; the four-branch structure is an extension used within the method, not the name of the project.</p></div></section>
+  <section class="project-section"><h2>Method</h2><div class="project-columns"><div><h3>Shared representation</h3><p>Paired branches encode visual observations with shared parameters so that similarity can be measured in a learned feature space.</p></div><div><h3>Four-branch training</h3><p>The baseline was extended to compare more sample relationships during metric learning, increasing the structure available to the training objective.</p></div><div><h3>Efficient feature learning</h3><p>The design explored grouped and depthwise-separable convolution, multi-scale feature concatenation, skip connections, and learnable loss weights.</p></div></div></section>
+  <section class="project-section"><h2>Learning objective</h2><div class="equation-card"><p>The central idea is to reduce the distance between related samples while enforcing separation from dissimilar observations:</p><div class="formula">ℒ = Σ<sub>i</sub> w<sub>i</sub> ℒ<sub>i</sub>, &nbsp; with w<sub>i</sub> learned during training.</div><p>This expression summarizes the learnable weighting of multiple loss terms; the page does not claim a specific numerical improvement because none is verified in the current record.</p></div></section>
+  <section class="project-section"><h2>My contribution</h2><ul class="contribution-list"><li>Led the project and established the Siamese-network baseline.</li><li>Designed the four-branch metric-learning extension and associated training relationships.</li><li>Explored efficient convolution, multi-scale fusion, residual paths, and learnable loss weighting.</li><li>Focused analysis on changes in illumination and partial occlusion.</li></ul></section>
+  <section class="project-result"><p class="project-kicker">EVIDENCE BOUNDARY</p><h2>Research project, not a deployment claim</h2><p>No public code link, benchmark score, production deployment, or operational impact is listed because those items are not available in the verified project materials.</p></section>
+  <nav class="project-next"><a href="/projects/fire-risk-detection/">Next project: Fire &amp; Smoke Detection →</a></nav>
+</article>
