@@ -58,31 +58,31 @@ redirect_from:
       <div class="project-meta"><time>Sep. 2025 — May 2026</time><span>Lead Developer</span></div>
       <h3><a href="/projects/lumensport/">LumenSport</a></h3>
       <p>An automated sports-video analysis and editing system for football and basketball. I designed the end-to-end pipeline for event understanding, highlight localization, temporal segmentation, and automatic clip generation, integrating visual, audio, and match-context cues. The project supported our First Prize result in the national Football AI innovation competition.</p>
-      <a class="project-readmore" href="/projects/lumensport/">View project →</a>
+      <div class="project-actions"><div class="project-card-tags"><span class="tag-blue">Video Understanding</span><span class="tag-green">AI + Sports</span></div><a class="project-readmore" href="/projects/lumensport/">View project →</a></div>
     </article>
     <article>
       <div class="project-meta"><time>Sep. 2025 — May 2026</time><span>Research · Second Author</span></div>
       <h3><a href="/projects/seamslicer/">SeamSlicer &amp; AtomicBench</a></h3>
       <p>Developed speech-aware multimodal video slicing for automated trimming. Contributed to multimodal boundary modeling, experiments, benchmark construction, analysis, and paper preparation for ACM MM 2026.</p>
-      <a class="project-readmore" href="/projects/seamslicer/">View project →</a>
+      <div class="project-actions"><div class="project-card-tags"><span class="tag-blue">Multimodal Learning</span><span class="tag-gray">Temporal Boundary Detection</span></div><a class="project-readmore" href="/projects/seamslicer/">View project →</a></div>
     </article>
     <article>
       <div class="project-meta"><time>Jul. 2024 — Jun. 2025</time><span>Computer Vision</span></div>
       <h3><a href="/projects/surveillance-anomaly-detection/">Siamese Network for Surveillance Anomaly Detection</a></h3>
       <p>Built a Siamese-network-based visual similarity system, then extended its metric-learning objective with a four-branch training strategy to improve fine-grained anomaly discrimination in surveillance scenes.</p>
-      <a class="project-readmore" href="/projects/surveillance-anomaly-detection/">View project →</a>
+      <div class="project-actions"><div class="project-card-tags"><span class="tag-purple">Metric Learning</span><span class="tag-orange">Anomaly Detection</span></div><a class="project-readmore" href="/projects/surveillance-anomaly-detection/">View project →</a></div>
     </article>
     <article>
       <div class="project-meta"><time>Mar. 2023 — Sep. 2024</time><span>Object Detection</span></div>
       <h3><a href="/projects/fire-risk-detection/">Fire &amp; Smoke Detection</a></h3>
       <p>Designed a YOLOv8-based detection pipeline with multi-scale context and attention-guided feature selection, achieving <strong>91.8% mAP</strong> on the project dataset.</p>
-      <a class="project-readmore" href="/projects/fire-risk-detection/">View project →</a>
+      <div class="project-actions"><div class="project-card-tags"><span class="tag-orange">Object Detection</span><span class="tag-green">AI for Safety</span></div><a class="project-readmore" href="/projects/fire-risk-detection/">View project →</a></div>
     </article>
     <article>
       <div class="project-meta"><time>May 2024 — May 2025</time><span>Facial Analysis</span></div>
       <h3><a href="/projects/makeupvision/">MakeupVision</a></h3>
       <p>Built a virtual-makeup vision pipeline using face detection, 106-point landmarks, facial semantic segmentation, localized masks, and cross-layer texture transfer.</p>
-      <a class="project-readmore" href="/projects/makeupvision/">View project →</a>
+      <div class="project-actions"><div class="project-card-tags"><span class="tag-purple">Facial Analysis</span><span class="tag-pink">AI + Beauty</span></div><a class="project-readmore" href="/projects/makeupvision/">View project →</a></div>
     </article>
   </div>
 </section>

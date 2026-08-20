@@ -12,7 +12,7 @@ classes: wide
     <p class="project-kicker">SPORTS VIDEO INTELLIGENCE · SEP. 2025 — MAY 2026</p>
     <h1>LumenSport</h1>
     <p class="project-deck">An end-to-end system that turns raw sports footage into structured analysis and editable video narratives.</p>
-    <div class="project-tags"><span>Video Understanding</span><span>Multimodal Analysis</span><span>Automated Editing</span><span>Football &amp; Basketball</span></div>
+    <div class="project-tags"><span class="tag-blue">Video Understanding</span><span class="tag-green">AI + Sports</span></div>
     <img src="/assets/images/projects/lumensport-hero.webp" alt="Conceptual overview of the LumenSport sports-video analysis and editing pipeline">
   </header>
 

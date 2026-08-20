@@ -106,7 +106,16 @@ a:hover { color:var(--yy-link-hover); text-decoration-color:var(--yy-link-hover)
 .project-list > article:last-child { border-bottom:1px solid #aaa; }
 .project-list h3 { margin:.18rem 0 .35rem; font-size:1.18rem; }
 .project-list h3 a { color:var(--yy-black); text-decoration-color:#9bb3d5; }
-.project-readmore { display:inline-block; margin-top:.05rem; font-size:.86rem; font-weight:800; text-decoration:none; }
+.project-actions { display:flex; align-items:center; justify-content:space-between; gap:1rem; margin-top:.6rem; }
+.project-card-tags { display:flex; flex-wrap:wrap; gap:.4rem; }
+.project-card-tags span,.project-tags span { padding:.26rem .6rem; border:0; border-radius:2px; color:#1d2733; font-size:.72rem; font-weight:800; line-height:1.35; letter-spacing:.025em; }
+.project-readmore { flex:0 0 auto; margin-left:auto; font-size:.86rem; font-weight:800; text-align:right; text-decoration:none; }
+.tag-blue { background:#dceafb; }
+.tag-green { background:#dcefe3; }
+.tag-purple { background:#e7e0f5; }
+.tag-orange { background:#f5e4d2; }
+.tag-pink { background:#f3dfe7; }
+.tag-gray { background:#e8e8e5; }
 .project-meta { display:flex; justify-content:space-between; gap:1rem; color:var(--yy-gray); font-size:.82rem; font-weight:700; text-transform:uppercase; letter-spacing:.055em; }
 .award-summary { display:flex; flex-wrap:wrap; gap:.7rem 1.1rem; padding:.9rem 0; border-top:1px solid var(--yy-black); border-bottom:1px solid var(--yy-black); }
 .award-summary span { color:var(--yy-gray); }
@@ -135,7 +144,6 @@ summary { cursor:pointer; padding:.65rem 0; font-weight:800; }
 .project-hero h1 { margin:0; max-width:940px; font-size:clamp(2.45rem,6vw,5rem); line-height:.96; letter-spacing:-.055em; }
 .project-deck { max-width:850px; margin:.9rem 0 1rem !important; color:#333; font-size:clamp(1.08rem,2vw,1.42rem); line-height:1.45; }
 .project-tags { display:flex; flex-wrap:wrap; gap:.42rem; margin:0 0 1.25rem; }
-.project-tags span { padding:.25rem .55rem; border:1px solid #777; font-size:.72rem; font-weight:700; letter-spacing:.035em; }
 .project-hero img { display:block; width:100%; aspect-ratio:16/9; object-fit:cover; border:1px solid var(--yy-black); background:#f5f2ea; }
 .project-overview { display:grid; grid-template-columns:repeat(4,1fr); border-bottom:1px solid var(--yy-black); }
 .project-overview div { padding:1rem .9rem 1rem 0; border-right:1px solid var(--yy-light); }
@@ -201,6 +209,7 @@ summary { cursor:pointer; padding:.65rem 0; font-weight:800; }
   .publication-card { grid-template-columns:1fr; gap:.3rem; }
   .project-meta { display:block; }
   .project-meta span { display:block; }
+  .project-actions { align-items:flex-end; }
   .project-page { padding-top:.4rem; }
   .project-overview { grid-template-columns:1fr 1fr; }
   .project-overview div:nth-child(2) { border-right:0; }

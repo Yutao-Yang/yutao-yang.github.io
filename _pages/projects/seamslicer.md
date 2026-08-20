@@ -8,7 +8,7 @@ classes: wide
 
 <article class="project-page">
   <a class="project-back" href="/#projects">← Back to projects</a>
-  <header class="project-hero"><p class="project-kicker">MULTIMODAL VIDEO SLICING · SEP. 2025 — MAY 2026</p><h1>SeamSlicer &amp; AtomicBench</h1><p class="project-deck">Speech-aware boundary reasoning for semantically complete, atomic-level automated video trimming.</p><div class="project-tags"><span>Video Understanding</span><span>Temporal Modeling</span><span>Speech–Vision Alignment</span><span>ACM MM 2026</span></div><img src="/assets/images/projects/seamslicer-hero.webp" alt="Conceptual overview of speech-aware multimodal video slicing"></header>
+  <header class="project-hero"><p class="project-kicker">MULTIMODAL VIDEO SLICING · SEP. 2025 — MAY 2026</p><h1>SeamSlicer &amp; AtomicBench</h1><p class="project-deck">Speech-aware boundary reasoning for semantically complete, atomic-level automated video trimming.</p><div class="project-tags"><span class="tag-blue">Multimodal Learning</span><span class="tag-gray">Temporal Boundary Detection</span></div><img src="/assets/images/projects/seamslicer-hero.webp" alt="Conceptual overview of speech-aware multimodal video slicing"></header>
 
   <section class="project-overview"><div><strong>Role</strong><span>Second author</span></div><div><strong>Venue</strong><span>ACM Multimedia 2026 · Accepted</span></div><div><strong>Core task</strong><span>Atomic-level boundary detection</span></div><div><strong>Benchmark</strong><span>AtomicBench</span></div></section>
 
