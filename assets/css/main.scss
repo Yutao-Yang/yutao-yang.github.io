@@ -124,6 +124,10 @@ a:hover { color:var(--yy-link-hover); text-decoration-color:var(--yy-link-hover)
 .award-table p { margin:0; }
 .award-table.dense > div { grid-template-columns:15.5rem minmax(0, 1fr); padding:.3rem 0; }
 .award-table.dense time { white-space:normal; line-height:1.45; }
+.competition-table > div { display:grid; grid-template-columns:6.8rem 8.5rem minmax(0, 1fr); gap:1rem; align-items:start; padding:.4rem 0; border-bottom:1px solid var(--yy-light); }
+.competition-table time { font-variant-numeric:tabular-nums; white-space:nowrap; }
+.competition-table > div > strong { white-space:nowrap; }
+.competition-table p { margin:0; min-width:0; }
 details { margin:1.1rem 0; border-bottom:1px solid var(--yy-black); }
 summary { cursor:pointer; padding:.65rem 0; font-weight:800; }
 .skills-grid { display:grid; grid-template-columns:1fr 1fr; border-top:1px solid var(--yy-black); }
@@ -206,6 +210,8 @@ summary { cursor:pointer; padding:.65rem 0; font-weight:800; }
   .skills-grid > div:nth-child(odd) { border-right:0; }
   .skills-grid > div:nth-child(even) { padding-left:0; }
   .timeline-row, .award-table > div, .award-table.dense > div { grid-template-columns:1fr; gap:.15rem; }
+  .competition-table > div { grid-template-columns:6.4rem minmax(0, 1fr); gap:.2rem .65rem; }
+  .competition-table p { grid-column:1 / -1; padding-top:.1rem; }
   .publication-card { grid-template-columns:1fr; gap:.3rem; }
   .project-meta { display:block; }
   .project-meta span { display:block; }

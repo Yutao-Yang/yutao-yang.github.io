@@ -99,28 +99,37 @@ redirect_from:
   <h2>Honors &amp; Awards</h2>
   <div class="award-summary"><strong>30+ competition awards</strong><span>National · Provincial · University</span><strong>3× National Encouragement Scholarship</strong></div>
   <h3 class="subsection-title">National Competitions</h3>
-  <div class="award-table">
-    <div><time>Jun. 2026</time><p><strong>First Prize</strong> · First National Football AI Innovation Exchange Conference, Football Application Innovation Track</p></div>
-    <div><time>Jul. 2025</time><p><strong>Second Prize</strong> · National 3D Digital Innovation Design Competition, 17th Anniversary Elite League</p></div>
-    <div><time>May 2025</time><p><strong>Second Prize</strong> · National College Business Elite Challenge, Brand Planning National Finals</p></div>
-    <div><time>Jun. 2025</time><p><strong>Third Prize</strong> · 16th Lanqiao Cup National Finals, Python Programming</p></div>
-    <div><time>May 2025</time><p><strong>Third Prize</strong> · 2025 Group Programming Ladder Tournament National Finals</p></div>
+  <div class="competition-table">
+    <div><time>Jun. 2026</time><strong>First Prize</strong><p>First National Football AI Innovation Exchange Conference, Football Application Innovation Track</p></div>
+    <div><time>Jul. 2025</time><strong>Second Prize</strong><p>National 3D Digital Innovation Design Competition, 17th Anniversary Elite League</p></div>
+    <div><time>May 2025</time><strong>Second Prize</strong><p>National College Business Elite Challenge, Brand Planning National Finals</p></div>
+    <div><time>Jun. 2025</time><strong>Third Prize</strong><p>16th Lanqiao Cup National Finals, Python Programming</p></div>
+    <div><time>May 2025</time><strong>Third Prize</strong><p>2025 Group Programming Ladder Tournament National Finals</p></div>
   </div>
   <details>
     <summary>View provincial and university competitions</summary>
     <h3 class="subsection-title">Provincial Competitions</h3>
-    <div class="award-table dense">
-      <div><time>Jun. 2025</time><p><strong>Special Prize</strong> · National 3D Digital Innovation Design Competition, Shanxi Division</p></div>
-      <div><time>Aug. 2025</time><p><strong>Silver Award</strong> · China International College Students’ Innovation Competition, Shanxi Division</p></div>
-      <div><time>May 2025</time><p><strong>First Prize</strong> · 16th Lanqiao Cup, Python Programming, Shanxi Division</p></div>
-      <div><time>May 2025</time><p><strong>First Prize</strong> · Group Programming Ladder Tournament, Shanxi Division</p></div>
-      <div><time>Jun. 2025</time><p><strong>Second Prize</strong> · Chinese Collegiate Computing Competition, Digital Media Game &amp; Interaction</p></div>
-      <div><time>Apr. 2024</time><p><strong>Second Prize</strong> · 15th Lanqiao Cup, Python Programming, Shanxi Division</p></div>
-      <div><time>Jan. 2024</time><p><strong>Second Prize</strong> · 15th Chinese Mathematics Competition, Non-Mathematics Group A</p></div>
-      <div><time>2023 — 2025</time><p>Additional third prizes and excellence awards in mathematical modeling, software applications, visual arts, robotics, and AI.</p></div>
+    <div class="competition-table">
+      <div><time>Jun. 2025</time><strong>Special Prize</strong><p>National 3D Digital Innovation Design Competition, Shanxi Division</p></div>
+      <div><time>Aug. 2025</time><strong>Silver Award</strong><p>China International College Students’ Innovation Competition, Shanxi Division</p></div>
+      <div><time>May 2025</time><strong>First Prize</strong><p>16th Lanqiao Cup, Python Programming, Shanxi Division</p></div>
+      <div><time>May 2025</time><strong>First Prize</strong><p>Group Programming Ladder Tournament, Shanxi Division</p></div>
+      <div><time>Jun. 2025</time><strong>Second Prize</strong><p>Chinese Collegiate Computing Competition, Digital Media Game &amp; Interaction</p></div>
+      <div><time>Apr. 2024</time><strong>Second Prize</strong><p>15th Lanqiao Cup, Python Programming, Shanxi Division</p></div>
+      <div><time>Jan. 2024</time><strong>Second Prize</strong><p>15th Chinese Mathematics Competition, Non-Mathematics Group A</p></div>
+      <div><time>Jun. 2025</time><strong>Third Prize</strong><p>16th Lanqiao Cup Visual Art Design, Static Poster</p></div>
+      <div><time>May 2025</time><strong>Third Prize</strong><p>2024 National Undergraduate Mathematical Contest in Modeling, Shanxi</p></div>
+      <div><time>Aug. 2024</time><strong>Third Prize</strong><p>17th Chinese Collegiate Computing Competition, Software Applications and Development</p></div>
+      <div><time>Apr. 2023</time><strong>Third Prize</strong><p>14th Lanqiao Cup, C/C++ Programming, Shanxi Division</p></div>
+      <div><time>Jul. 2025</time><strong>Excellence Award</strong><p>27th China Robotics and Artificial Intelligence Competition, Provincial Selection</p></div>
+      <div><time>Dec. 2023</time><strong>Excellence Award</strong><p>National Undergraduate Mathematical Contest in Modeling, Shanxi</p></div>
     </div>
     <h3 class="subsection-title">University Competitions</h3>
-    <p>Multiple first, second, and third prizes in market research, mathematical modeling, software innovation, 3D art and teaching, and the Internet+ Innovation &amp; Entrepreneurship Competition (2023–2025).</p>
+    <div class="competition-table">
+      <div><time>May 2025</time><strong>First Prize</strong><p>15th Market Survey and Analysis Competition, Shanxi University Selection</p></div>
+      <div><time>Jul. 2024</time><strong>First Prize</strong><p>China International College Students’ Innovation Competition, Shanxi University</p></div>
+      <div><time>May 2024</time><strong>First Prize</strong><p>10th New-Form Software Competition, 3D Digital Art Teaching System</p></div>
+    </div>
   </details>
   <h3 class="subsection-title">Scholarships &amp; Distinctions</h3>
   <div class="award-table dense">
