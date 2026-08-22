@@ -63,25 +63,25 @@ redirect_from:
     <article>
       <div class="project-meta"><time>Sep. 2025 — May 2026</time><span>Research · Second Author</span></div>
       <h3><a href="/projects/seamslicer/">SeamSlicer &amp; AtomicBench</a></h3>
-      <p>Developed speech-aware multimodal video slicing for automated trimming. Contributed to multimodal boundary modeling, experiments, benchmark construction, analysis, and paper preparation for ACM MM 2026.</p>
+      <p>Studied atomic-level automated trimming by jointly modeling visual, speech, text, music, sound effects, and ambient audio. Contributed to the three-stage boundary-extraction, visual-refinement, and length-control framework and to AtomicBench construction and evaluation.</p>
       <div class="project-actions"><div class="project-card-tags"><span class="tag-blue">Multimodal Learning</span><span class="tag-gray">Temporal Boundary Detection</span></div><a class="project-readmore" href="/projects/seamslicer/">View project →</a></div>
     </article>
     <article>
-      <div class="project-meta"><time>Jul. 2024 — Jun. 2025</time><span>Computer Vision</span></div>
+      <div class="project-meta"><time>Jul. 2024 — Jun. 2025</time><span>Project Lead</span></div>
       <h3><a href="/projects/surveillance-anomaly-detection/">Siamese Network for Surveillance Anomaly Detection</a></h3>
-      <p>Built a Siamese-network-based visual similarity system, then extended its metric-learning objective with a four-branch training strategy to improve fine-grained anomaly discrimination in surveillance scenes.</p>
+      <p>Built a shared-weight Siamese visual-similarity baseline and a four-branch metric-learning strategy, combining efficient convolution, multi-scale feature fusion, skip connections, and learnable pair/triplet-loss weighting for illumination and occlusion robustness.</p>
       <div class="project-actions"><div class="project-card-tags"><span class="tag-purple">Metric Learning</span><span class="tag-orange">Anomaly Detection</span></div><a class="project-readmore" href="/projects/surveillance-anomaly-detection/">View project →</a></div>
     </article>
     <article>
-      <div class="project-meta"><time>Mar. 2023 — Sep. 2024</time><span>Object Detection</span></div>
+      <div class="project-meta"><time>Mar. 2023 — Sep. 2024</time><span>Project Lead</span></div>
       <h3><a href="/projects/fire-risk-detection/">Fire &amp; Smoke Detection</a></h3>
-      <p>Designed a YOLOv8-based detection pipeline with multi-scale context and attention-guided feature selection, achieving <strong>91.8% mAP</strong> on the project dataset.</p>
+      <p>Built a YOLOv8-based fire-and-smoke detector with parallel dilated-convolution context enhancement, MCA attention, and a coordinate-attention-guided hierarchical feature-selection pyramid, achieving <strong>91.8% mAP</strong> on the project dataset.</p>
       <div class="project-actions"><div class="project-card-tags"><span class="tag-orange">Object Detection</span><span class="tag-green">AI for Safety</span></div><a class="project-readmore" href="/projects/fire-risk-detection/">View project →</a></div>
     </article>
     <article>
-      <div class="project-meta"><time>May 2024 — May 2025</time><span>Facial Analysis</span></div>
+      <div class="project-meta"><time>May 2024 — May 2025</time><span>Project Lead</span></div>
       <h3><a href="/projects/makeupvision/">MakeupVision</a></h3>
-      <p>Built a virtual-makeup vision pipeline using face detection, 106-point landmarks, facial semantic segmentation, localized masks, and cross-layer texture transfer.</p>
+      <p>Led a virtual-makeup vision pipeline integrating Light-FaceDetector, 106-point landmark estimation, and facial semantic segmentation; developed ROI localization, lip/eye masks, and cross-layer texture transfer for localized makeup synthesis.</p>
       <div class="project-actions"><div class="project-card-tags"><span class="tag-purple">Facial Analysis</span><span class="tag-pink">AI + Beauty</span></div><a class="project-readmore" href="/projects/makeupvision/">View project →</a></div>
     </article>
   </div>
@@ -91,7 +91,7 @@ redirect_from:
   <h2>Education</h2>
   <div class="timeline">
     <div class="timeline-row"><time>Sep. 2026 — Present</time><div><h3>Nankai University · Beijing Zhongguancun College</h3><p>Direct-entry Ph.D. in Electronic Information, jointly trained through the College of Excellent Engineers.</p></div></div>
-    <div class="timeline-row"><time>Sep. 2022 — Jun. 2026</time><div><h3>Shanxi University</h3><p>B.Eng. in Software Engineering · Recommendation ranking <strong>4/801 (top 0.5%)</strong> · Comprehensive ranking 7/801 · GPA 3.78/4.50.</p></div></div>
+    <div class="timeline-row"><time>Sep. 2022 — Jun. 2026</time><div><h3>Shanxi University</h3><p>B.Eng. in Software Engineering · Recommendation ranking <strong>4/801 (top 0.5%)</strong> · Comprehensive ranking 7/801 · GPA 3.74/4.50.</p></div></div>
   </div>
 </section>
 
@@ -147,8 +147,7 @@ redirect_from:
   <div class="service-list">
     <p><strong>Student leadership.</strong> Organized calligraphy exhibitions, member activities, and publicity for the Shanxi University Calligraphy and Painting Association. Also served as class safety and mental-health committee member.</p>
     <p><strong>Community service.</strong> Completed <strong>202 hours</strong> of in-person volunteering during undergraduate study.</p>
-    <p><strong>Teaching &amp; mentoring.</strong> Delivered <strong>300+ hours</strong> of in-person tutoring for secondary-school and lower-division university students, alongside online mentoring for competitive graduate-recommendation applications.</p>
-    <p><strong>Technical writing.</strong> Published practical AI and software-engineering articles on <a href="https://splash.blog.csdn.net/">CSDN</a>, with more than <strong>400,000 total views</strong>.</p>
+    <p><strong>Technical writing.</strong> Published practical AI and software-engineering articles on <a href="https://splash.blog.csdn.net/">CSDN</a>, with more than <strong>420,000 total views</strong> and <strong>13,000 followers</strong>.</p>
     <p><strong>Calligraphy.</strong> Practice Chinese brush calligraphy, especially Slender Gold script (瘦金体) and regular script (楷书).</p>
   </div>
 </section>
