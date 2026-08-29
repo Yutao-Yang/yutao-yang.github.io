@@ -15,6 +15,8 @@ redirect_from:
     <a href="/files/Yutao_Yang_CV_EN.pdf">English CV</a>
     <a href="https://github.com/Yutao-Yang">GitHub</a>
     <a href="https://scholar.google.com/citations?user=4U-epJUAAAAJ&hl=en">Google Scholar</a>
+    <a href="https://blog.csdn.net/m0_73776435?type=blog">CSDN</a>
+    <a href="https://huggingface.co/Splash47666">Hugging Face</a>
   </div>
 </div>
 

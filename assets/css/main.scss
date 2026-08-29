@@ -79,7 +79,7 @@ a:hover { color:var(--yy-link-hover); text-decoration-color:var(--yy-link-hover)
 .profile-intro { padding:.6rem 0 1.4rem; border-bottom:2px solid var(--yy-black); }
 .eyebrow { margin-bottom:.65rem !important; font-size:.78rem; font-weight:800; letter-spacing:.13em; }
 .lead { font-size:1.24rem; line-height:1.55; letter-spacing:-.01em; }
-.quick-links { display:flex; flex-wrap:wrap; gap:.5rem; margin-top:1.2rem; }
+.quick-links { display:flex; flex-wrap:nowrap; gap:.5rem; margin-top:1.2rem; }
 .quick-links a { padding:.38rem .78rem; border:1px solid var(--yy-black); text-decoration:none; font-weight:700; font-size:.85rem; }
 .quick-links a:hover { background:var(--yy-black); color:#fff; }
 .home-section { margin:2.35rem 0 0; scroll-margin-top:5rem; }
